@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">JetProfile</string>
+    <string name="name">yuta sato</string>
+    <string name="job">Android engineer</string>
+    <string name="companyName">フェンリル</string>
+    <string name="groupName">Android</string>
+    <string name="mailAddress">Email</string>
+</resources>
